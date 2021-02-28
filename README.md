@@ -8,7 +8,7 @@ Google Collab
 Python
 
 ## Libraries
-PyTorch, Transformers, Pandas, Numpy, Skipy
+PyTorch, Transformers, Pandas, Numpy, Scipy
 
 ## Description / Goals 
 The purpose of this project is the developement of a document retrieval system that returns titles and passages of scientic papers containing the answer to a given user question. In order, to achieve that we use different pretrained BERT models applied on the latest version of the COVID-19 Open Research Dataset (CORD-19). Specifically, we process the articles in the folder 'comm_use_subset' and we utilize the metadata provided in the 'all_sources_metadata_2020-03-13.csv' file. <br>
