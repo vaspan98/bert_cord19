@@ -18,23 +18,23 @@ We implement 2 models for the titles retrieval task and 2 different models for t
 * the cosine similarity score of the retrieved answer
 
 ## Examples
-**Question:** What are the coronaviruses?
+**Question:** What are the coronaviruses? <br>
 
-**Title:** Infectious Bronchitis Virus Nonstructural Protein 4 Alone Induces Membrane Pairing
-**Score:** 8.640386581420898
-**Abstract:** **positive-strand rna viruses**, such as coronaviruses, induce cellular membrane rearrangements during replication to form replication organelles allowing for efficient viral RNA synthesis. 
+**Title:** Infectious Bronchitis Virus Nonstructural Protein 4 Alone Induces Membrane Pairing <br>
+**Score:** 8.640386581420898 <br>
+**Abstract:** **positive-strand rna viruses**, such as coronaviruses, induce cellular membrane rearrangements during replication to form replication organelles allowing for efficient viral RNA synthesis. <br>
 
-**Question:** What is caused by SARS-COV2?
+**Question:** What is caused by SARS-COV2? <br>
 
-**Title:** The Disulfide Bonds in Glycoprotein E2 of Hepatitis C Virus Reveal the Tertiary Organization of the Molecule
-**Score:** 7.8293867111206055
-**Abstract:** Hepatitis C virus (HCV), a major cause of **chronic liver disease** in humans, is the focus of intense research efforts worldwide.
+**Title:** The Disulfide Bonds in Glycoprotein E2 of Hepatitis C Virus Reveal the Tertiary Organization of the Molecule <br>
+**Score:** 7.8293867111206055 <br>
+**Abstract:** Hepatitis C virus (HCV), a major cause of **chronic liver disease** in humans, is the focus of intense research efforts worldwide. <br>
 
-**Question:** what are the public measures to control the spread of covid-19?
+**Question:** what are the public measures to control the spread of covid-19? <br>
 
-**Title:** Local risk perception enhances epidemic control
-**Score:** 7.057101249694824
-**Abstract:** As infectious disease outbreaks emerge, public health agencies often enact **vaccination and social distancing measures** to slow transmission.
+**Title:** Local risk perception enhances epidemic control <br>
+**Score:** 7.057101249694824 <br>
+**Abstract:** As infectious disease outbreaks emerge, public health agencies often enact **vaccination and social distancing measures** to slow transmission. <br>
 
 
 ## Tips
