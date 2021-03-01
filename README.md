@@ -37,7 +37,7 @@ We implement 2 models for the titles retrieval task and 2 different models for t
     **Abstract:** As infectious disease outbreaks emerge, public health agencies often enact **vaccination and social distancing measures** to slow transmission. <br>
 
 ## Tips
-Add the 'comm_use_subset' directory and the 'all_sources_metadata_2020-03-13.csv' dataset in your 'gdrive/My Drive/Colab Notebooks/' path to execute correctly
+Add the `comm_use_subset` directory and the `all_sources_metadata_2020-03-13.csv` dataset in your `gdrive/My Drive/Colab Notebooks/` path to execute correctly
 
 Suggested Runtime Type: GPU
 
