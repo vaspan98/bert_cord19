@@ -11,7 +11,7 @@ Python
 PyTorch, Transformers, Pandas, Numpy, Scipy
 
 ## Description / Goals 
-The purpose of this project is the developement of a document retrieval system that returns titles and passages of scientic papers containing the answer to a given user question. In order, to achieve that we use different pretrained BERT models applied on the latest version (2020-03-13) of the [COVID-19 Open Research Dataset (CORD-19)](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html). Specifically, we process the articles in the folder 'comm_use_subset' and we utilize the metadata provided in the 'all_sources_metadata_2020-03-13.csv' file. <br>
+The purpose of this project is the developement of a document retrieval system that returns titles and passages of scientic papers containing the answer to a given user question. In order, to achieve that we use different pretrained BERT models applied on the latest version (2020-03-13) of the [COVID-19 Open Research Dataset (CORD-19)](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html). Specifically, we process the articles in the folder 'comm_use_subset' and we utilize the metadata provided in the `all_sources_metadata_2020-03-13.csv` file. <br>
 We implement 2 models for the titles retrieval task and 2 different models for the passages retrieval task. We evaluate our experiments based on the mathematical-theoretical background of each model. We compare the results of our models based on:
 * their architecture
 * their execution time
