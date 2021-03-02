@@ -4,7 +4,7 @@ Passage retrieval on CORD-19 dataset with different pretrained BERT models
 ## Platform
 Google Collab
 
-## Language
+## Programming Language
 Python
 
 ## Libraries
@@ -43,6 +43,3 @@ Suggested Runtime Type: GPU
 
 ## Author
 Vassilis Panagakis
-
-## Date
-February 2021
